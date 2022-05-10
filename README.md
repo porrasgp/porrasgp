@@ -26,7 +26,6 @@ Results-oriented professional, visionary and determined to solve clients' proble
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/porrasgp/)
 - 📝 &nbsp; Checkout my [resume](https://www.linkedin.com/in/porrasgp/)
 - 📚 &nbsp; Checkout my [Medium](https://medium.com/@giovannisolanoporras)
-- 
 
 <br>
 
