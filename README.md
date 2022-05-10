@@ -22,10 +22,11 @@ Results-oriented professional, visionary and determined to solve clients' proble
 - 🔭 &nbsp; I’m currently working on my webpage: :triangular_flag_on_post:[Go Know](https://porrasgp.github.io/PortfolioWeb/):triangular_flag_on_post:
 - 🤝 &nbsp; I’m looking to collaborate on Data Science Projects
 - 🌱 &nbsp; I’m currently learning Python, R and Java ; 
-- 💬 &nbsp; Ask me about anything tech related, I am glad to help: :mailbox:[Email me](gps_30rd@hotmail.com)
+- 💬 &nbsp; Ask me about anything tech related, I am glad to help: :mailbox:[Email me](mailto:gps_30rd@hotmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/porrasgp/)
 - 📝 &nbsp; Checkout my [resume](https://www.linkedin.com/in/porrasgp/)
 - 📚 &nbsp; Checkout my [Medium](https://medium.com/@giovannisolanoporras)
+- 
 
 <br>
 
