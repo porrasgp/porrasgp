@@ -19,7 +19,7 @@ Results-oriented professional, visionary and determined to solve clients' proble
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on my webpage: https://porrasgp.github.io/PortfolioWeb/ 
+- 🔭 &nbsp; I’m currently working on my webpage: :triangular_flag_on_post: https://porrasgp.github.io/PortfolioWeb/ :triangular_flag_on_post:
 - 🤝 &nbsp; I’m looking to collaborate on Data Science Projects
 - 🌱 &nbsp; I’m currently learning Python, R and Java ; 
 - 💬 &nbsp; Ask me about anything tech related, I am glad to help;
