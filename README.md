@@ -9,7 +9,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23ADE420&center=true&vCenter=true&lines=Data+Science+Enthusiast;%2B2+Year+of+Expirence+in+DaViz;Language+Lover+%E2%99%A5%EF%B8%8F"></a>
 </p>
 
-Data Analyst expert💻, passionate about Machine Learning🤖 and Data Visualization🎨 projects. B.A International Relations🌐 with a specialization in Trade Policy, Major in Chinese-Mandarin in 中国 政法 大学, Pursuing a B.S Data Science Engineering from LEAD University.
+Data Science💻, passionate about Machine Learning🤖 and Data Visualization🎨 projects. B.A International Relations🌐 with a specialization in Trade Policy, Major in Chinese-Mandarin in 中国 政法 大学, Pursuing a B.S Data Science Engineering from LEAD University.
 
 Results-oriented professional, visionary and determined to solve clients' problems, combining both areas of qualitative analysis and quantitative analysis. I have experience advising companies on issues of strategy, analytics and data-driven decision making🛠️.
 
