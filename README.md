@@ -6,7 +6,7 @@
 
 <!-- Typing SVG - https://readme-typing-svg.herokuapp.com/demo/ -->
 <p align="center">
-   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23ADE420&center=true&vCenter=true&lines=Data+Science+Enthusiast;%2B6+Year+of+Expirence+in+DaViz;Leading+High+Perfomance+Team+Using+Data+Lover+%E2%99%A5%EF%B8%8F"></a> 
+   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23ADE420&center=true&vCenter=true&lines=Data+Science+Enthusiast;%2B6+Year+of+Expirence+in+DaViz;Leading+Teams+Using+Data+Lover+%E2%99%A5%EF%B8%8F"></a> 
 </p>
 
 Data Scientist💻, passionate about Machine Learning🤖 and Data Visualization🎨 projects. B.A International Relations🌐 with a specialization in Trade Policy, Major in Chinese-Mandarin in 中国 政法 大学, Pursuing a B.S Data Science Engineering from LEAD University.
